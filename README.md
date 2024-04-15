@@ -61,9 +61,3 @@ I'm a Software Engineering professional with a specialization in Software Qualit
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-blue?logo=azure-devops&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-green)
-
-Feel free to explore my projects and reach out if you'd like to collaborate or discuss anything related to software testing, quality assurance, or software engineering in general. I'm always up for a good conversation and eager to contribute to meaningful projects! 😊
-
----
-
-*Note: This README is a work in progress and will be updated periodically with new information and projects.*
